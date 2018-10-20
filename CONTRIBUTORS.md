@@ -99,6 +99,8 @@ Instructions :
 | 72 | **Grant Garrett** | USA | Full-Stack Dev / Indie Game Dev | [GitHub](https://github.com/CNIAngel) - [LinkedIn](https://www.linkedin.com/in/grant-garrett-9057694b/) |
 | 73 | **Rakesh Kumar**  | India | Web Developer | [GitHub](https://github.com/rakesh258) - [LinkedIn](https://www.linkedin.com/in/rakesh258/)|
 | 76 | **Bhagyesh Patel**  | India | IT Engineer | [GitHub](https://github.com/bhagyesh11698) - [LinkedIn](https://www.linkedin.com/in/bhagyesh-patel-643975125/)|
+| 77 | **Adam Park** | USA | Cybersecurity Beginner | [Github](https://github.com/parkqx) - [LinkedIn|(https://www.linkedin.com/in/adam-park-400a23149/) |
+
 
 ---
 
